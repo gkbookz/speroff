@@ -1,0 +1,101 @@
+17
+
+Menopause Transition and Menopause Hormone Therapy
+
+Abstract: Reproductive senescence is the beginning of a series of events in the female reproductive system, culminating in menopause around 50 years of chronological age. The exact age of menopause varies across different races, ethnicity, marital status, parity among other factors influencing it. Natural menopause is an evolutionary biological phenomenon in human females, meant to cease reproduction and reserve energy for care of young in the species. It is a smooth transition from forties, without any added disadvantage to the individual in its biological sense. However, declining estrogen levels lead to changes in the genitourinary system, vasomotor flushes, loss of bone min-eral density, low sexual urge, and dyspareunia. These may be very distressing in some women. Depression, mood changes, cognitive decline are also mistakenly attributed to this phase in life and a taboo is woven around this very natural event in life. While many women may not need further substitution with hormones except adequate counseling, life style modi-fications, there are specific groups of women who may need and benefit from hormonal therapy (HT). Huge controversies have revolved around postmenopausal hormonal treatments for decades and many famous trials including Women’s Health Initiative (WHI) emerged with their pros and cons.
+
+This is a truly exhaustive chapter dealing with all aspects of menopause, starting from endocrinological changes to various drugs used as HT. This chapter also presents great details of all trials covering the impacts of HT on meta-bolic, cardiovascular, bone health, risks associated with breast, ovarian, malignancy, endometrial hyperplasia, and venous thromboembolism. Notes on mental health and Alzheimer’s risk in this age group help to create awareness for the physicians treating postmenopausal women.
+
+AN OVERVIEW
+
+Throughout recorded history, multiple physical and mental conditions have been attributed to the menopause. Although medical writers often wrote colorfully in the past, unfortu-nately they were also less than accurate, unencumbered by scientific information and data.
+
+A good example of the stereotypical, inaccurate thinking promulgated over the years is the following written in 18871:
+
+The ovaries, after long years of service, have not the ability of retiring in graceful old age, but become irritated, transmit their irritation to the abdominal ganglia, which in turn transmit the irritation to the brain, producing disturbances in the cerebral tissue exhibiting themselves in extreme nervousness or in an outburst of actual insanity.
+
+The belief that behavioral disturbances are related to manifestations of the female reproductive system is an ancient one that has persisted to contemporary times. This belief regarding the menopause is not totally illogical; there is reason to associate the middle years of life with negative experiences. The events that come to mind are impressive: onset of a major illness or disability (and even death) in a spouse, relative, or friend; retirement from employment; financial insecurity; the need to provide care for very old parents and relatives; and separation from children. Thus, it is not surprising that a middle-aged event, the menopause, shares in this negative outlook.
+
+The scientific study of all aspects of menstruation has been hampered by the overpowering influence of social and cul-tural beliefs and traditions. Problems arising from life events have often been erroneously attributed to the menopause. But data, especially more reliable community-based longitudinal data, now establish that the increase in most symptoms and problems in middle-aged women reflects social and personal circumstances, not the endocrine events of the menopause.2–11 The variability in menopausal reactions makes the cross-sectional study design particularly unsuitable. Longitudinal studies are better for documenting what is normal and the variations around normal.
+
+The Massachusetts Women’s Health Study, a large and comprehensive prospective, longitudinal study of mid-dle-aged women, provides a powerful argument that the menopause is not and should not be viewed as a negative experience by the vast majority of women.3,12 The cessation of menses was perceived by these women (as have the women in other longitudinal studies) as having almost no impact on subsequent physical and mental health. This was reflected by women expressing either positive or neutral feelings about menopause. An exception was the group of women who experienced surgical menopause, but there is good reason to believe that the reasons for the surgical procedure were more important than the cessation of menses.
+
+Changes in menstrual function are not symbols of some ominous “change.” There are good physiologic reasons for changing menstrual function, and understanding the physi-ology will do much to reinforce a healthy, normal attitude. Attitude and expectations about the menopause are very important. Women who have been frequent users of health services and who expect to have difficulty do experience greater symptoms and higher levels of depression.4,8,9 The symptoms that women report are related to many variables within their lives, and the hormonal change at menopause cannot be held responsible for the common psychosocial and lifestyle problems we all experience. It is important to stress the normalcy of this physiologic event. Menopausal women do not suffer from a disease (specifically a hormone deficiency disease), and postmenopausal hormone therapy should be viewed as specific treatment for symptoms in the short term and preventive pharmacology in the long term.
+
+It can be further argued that physicians have had a biased (negative) point of view, because the majority of women, being healthy and happy, do not seek contact with physicians.13,14 It is vital, therefore, that clinicians not only are familiar with the facts relative to the menopause but also have an appropriate attitude and philosophy regarding this period of life. Medical intervention at this point of life should be regarded as an opportunity to provide and reinforce a program of preventive health care. The issues of preventive health care for women are familiar ones. They include family planning, cessation of smoking, control of body weight and alcohol consumption, prevention of cardiovascular disease and osteoporosis, main-tenance of mental well-being (including sexuality), cancer screening, and treatment of urologic problems.
+
+GROWTH OF THE OLDER POPULATION
+
+We are experiencing a relatively new phenomenon: we can expect to become old. We are on the verge of becoming a rectangular society. This is a society in which nearly all indi-viduals survive to advanced age. In 1,000 b.c., life expectancy was only 18 years. By 100 b.c., the time of Julius Caesar, it had reached 25 years. In 1900, in the United States, life expectancy still had reached only 49 years (Figure 17.1). In 2005, the average life expectancy was 80.7 years for women and 75.4 for men.15 Today, once you reach 65, if you are a man, you can expect to reach 83 and if you are a woman, age 85. We can anticipate that eventually, about two-thirds of the population will survive to 85 or more, and more than 90% will live past age 65—this would be the nearly perfect rectangular society (Figure 17.2).16 Currently, Sweden and Switzerland are closest to this demographic composition.
+
+A good general definition of elderly is 65 and older, although it is not until age 75 that a significant proportion of older people show the characteristic decline and problems. Today, the elderly population is the largest contributor to illness and human need in the United States. There are more old people (with their greater needs) than ever before.17 In 1900, there were approximately 3 million Americans 65 and older (about 4% of the total population), and in 2000, there were 35 million (about 12% of the total population). By 2030, the elderly population in the United States will reach about 70 million, and about one in five Americans will be elderly.17 The world’s elderly population will be more than double from 1998 to 2025, rising from 264 million in 2009 to 416 million in 2050.18 Population aging must be added to population growth as very important social problems. According to Population Census 2011, there are nearly 104 million elderly persons (aged 60 years or above) in India; 53 million females and 51 million males. 
+
+Two modern phenomena have influenced the rate of change. The first was the post–World War II baby boom (1946–1964) that temporarily postponed the aging of the population, but now is causing a faster aging of the general population. The sec-ond major influence has been the decline in old-age mortality. Our success in postponing death has increased the upper seg-ment of the demographic contour (Figure 17.3). By 2050, the current developed nations will be rectangular societies. China, by 2050, will contain more people over age 65 than the num-ber of people of all ages currently living in the United States (Table 17.1).
+
+This is a worldwide development, not limited to affluent societies.19 The population of the earth will continue to grow until the year 2100 or 2150, when it is expected to stabilize at approximately 11 billion. After 2020, all of this growth will occur in developing countries.18 In 2000, the poorest countries (located in Africa and Asia) accounted for 87% of the world’s population. In 1950, only 40% of people 60 and older lived in developing countries. By 2050, about 80% will live in those countries, as fertility in the developing regions is expected to drop from 2.73 children per woman in 2005–2010 to 2.05 by 2050.18
+
+In aging populations, a gender differential in survival is recognized. In 1900, men over age 65 in the United States outnumbered women by 102 to 100. Now, there are only 70 men for every 100 women over age 65.20 By age 85, only 39 men are alive for every 100 women. Nearly 90% of white American women can expect to live to age 70. Vital statis-tics data indicate that this gender difference is similar in both the black and white populations in the United States (Figure 17.4).21 Approximately 55% of girls, but only 35% of boys, live long enough to celebrate their 85th birthday.22 One in 5,600 individuals can expect to live to be 100.20
+
+The 10 leading causes of death in the United States in 2016 were as follows:
+
+1.	Heart disease
+
+2.	Cancer
+
+3.	Unintentional injuries
+
+ 
+
+4.	Chronic lower respiratory diseases
+
+5.	Stroke
+
+6.	Alzheimer disease
+
+7.	Diabetes mellitus
+
+8.	Influenza and pneumonia
+
+9.	Kidney diseases
+
+10.	Suicides
+
+Men and women reach old age with different prospects for older age, a sex differential that (it can be argued) is due in significant part to the sex hormone–induced differences in the cholesterol-lipoprotein profile and other cardiovascu-lar factors and thus the greater incidence of atherosclerosis and earlier death in men. From a public health point of view, the greatest impact on the sex differential in mortality would be gained by concentrating on lifestyle changes designed to diminish atherosclerosis: low-cholesterol diet, no smoking, optimal body weight, and active exercise. The death rate is higher for men at all ages, and therefore women are overrep-resented in aging populations (Table 17.2). Coronary heart disease (CHD) accounts for 40% of the mortality difference between men and women. Another one-third is from lung cancer, emphysema, cirrhosis, accidents, and suicides. It is interesting to note that in our society, the mortality difference between men and women is largely a difference in lifestyle. Smoking, drinking, coronary-prone behavior, and accidents account for most of the higher male mortality rate over age 65. It has been estimated that perhaps two-thirds of the difference have been due to cigarettes alone. But we should emphasize that this is due to a greater prevalence of smoking in men. Women whose smoking patterns are similar to those of men have a similar increased risk of morbidity and mortality.23
+
+The mortality sex difference has been decreasing since 1979. The U.S. Census Bureau projects that the difference in life expectancy between men and women will increase until the year 2050 and then level off. In 2050, life expectancy for women will be 82 years and for men, 76.7 years.24 There will be 33.4 million women 65 years and older, compared with 22.1 million men.
+
+In addition to the growing numbers of elderly people, the older population itself is getting older. For example, in 1984, the 65–74 age group in the United States was over 7 times larger than in 1900, but the 75–84 group was 11 times larger, and the 85 and older group was 21 times larger. In the 1990s, the population 85 years and older increased by 38%.20 The most rapid increase is expected between 2010 and 2030 when the post–World War II baby boom generation will be age 65 and over. In the next century, the only age groups in the United States expected to experience significant growth will be those past age 55. In this older age group, women will outnumber men by 2.6 to 1. By the year 2040, in the United States, there will be 8 million to 13 million people 85 years of age or older; the estimate varies according to pessimistic to optimistic projections regarding disease prevention and treatment.
+
+MENOPAUSE AS AN OPPORTUNITY
+
+ 
+
+Reproductive senescence is much earlier than chronologi-cal aging. Long postmenopausal life for human females appears to be an evolutionary conundrum. This is virtually peculiar to human females, explaining the “grandmother hypothesis,” that is, the fitness genes of the grandmother would be passed on to the daughters and grandchildren. This is possible with cessation of reproduction and men-struation, there by contributing to source of fitness. 
+
+Menopause is a normal phase of life, much like puberty; it should not be viewed as abnormal. For many women, it is a welcome change—no further menses or premenstrual syndrome (PMS) and no need for contraception/concern for conceiving. Clinicians who interact with women at the time of the menopause have a wonderful opportunity and, therefore, a significant obligation. Medical interven-tion at this point of life offers women years of benefit from preventive health care. This phase of life represents an opportunity that should be seized.
+
+While not underrating the importance of good health habits among the young, we would argue that the impact of teaching preventive care is more observable and more tangible at middle age. The prospects of limited mortal-ity and the morbidity of chronic diseases are viewed with belief, understanding, and appreciation during these older years. The chance of illness is higher, but the impact of changes in lifestyle is greater.
+
+Stages of Reproductive Aging: Reproductive Years to Perimenopause (Older Terminology) or Menopausal Transition (Newer Term) to Menopause
+
+In 2001, the Stages of Reproductive Aging Workshop (STRAW) standardized the nomenclature for the stages of the menopausal transition.25 Prior to this workshop, there was no accepted system for defining the stages of reproductive aging leading up to menopause. In 2010, at a follow-up work-shop (“STRAW + 10”), the criterion was updated to reflect advances in changes in the hypothalamic-pituitary function occurring throughout reproductive aging.26 The STRAW staging system divides female life span into three broad phases: reproductive phase, menopausal transition phase, and postmenopause phase. Each of the three phases is divided into stages based on information obtained through clinical (men-strual cycle pattern, symptoms) and investigative (serum lev-els of follicle-stimulating hormone [FSH] and anti-Müllerian hormone [AMH] and ultrasound-based ovarian antral fol-licle count [AFC]) data. The menopausal transition is a finite period of physiologic changes that eventually culminates in reproductive senescence. This phase of life can be associated with unique challenges that can have significant effects on population’s well-being and on quality of life.25 A woman is said to have reached menopause if she has remained amenor-rheic for a consecutive of 12-month interval and demonstrates biochemical evidence of hypergonadotropic (elevated FSH and luteinizing hormone [LH] levels) hypogonadism (low estradiol levels). The last or final menstrual period (FMP) is identified as stage “0” marking a watershed between repro-ductive and postreproductive periods of life. The reproductive phase itself is broken down into five stages (early [−5], peak [−4], and late [−3]). The menopause transition phase is bro-ken down into two stages (early [−2] and late [−1]). The post-menopause phase is also divided into two stages (early [+1] and late [+2]).26 The FMP thus serves as the reference point for interpretation of the rest of the stages across the three specified phases of reproductive aging (Figure 17.6).
+
+Late Reproductive Stage (STRAW Stage −3)
+
+A decline in fecundability is apparent as the earliest hallmark of transition followed by a spectrum of clinically apparent phenomenon, such as changes in menstrual cycle pattern. As covert endocrinologic changes set in well before notice-able and clinically apparent features (such as changes in the menstrual cycle), STRAW +10 recommended that the late reproductive stage be divided into substages −3b and −3a. In stage −3b, the menstrual cycles are relatively unchanged, the early follicular phase serum levels of FSH are relatively low and in normal premenopausal range, whereas AMH and AFC (and likely inhibin B) are low.27 In stage −3a, menstrual cycles become shorter and early follicular FSH increases, while AMH, AFC, and inhibin B are low.27
+
+Early Menopausal Transition (STRAW Stage −2)
+
+This stage is characterized by increasing irregularity of the men-strual cycle length. This irregularity is defined as a recurrence of 7-day difference in cycle length over 10 cycles. This stage is also characterized by variable elevations in early follicular phase FSH levels, with persistently low AMH levels and low AFC.27
+
+Late Menopausal Transition (STRAW Stage −1)
+
+This stage is characterized by missed menses with periods of amenorrhea lasting greater than or equal to 60 days. Menstrual cycles are increasingly irregular in length, with variability in reproductive hormonal levels and high inci-dence of anovulation. FSH levels are usually elevated in the menopausal range, although at times can be in the premeno-pausal range with concomitant high estradiol levels. An FSH level of greater than 25 IU/L is commonly seen in this late transition stage. This stage lasts 1–3 years and is when vaso-motor symptoms such as hot flushes begin to occur.27
+
+Early Postmenopause (STRAW Stage 1, Substages +1a, +1b, +1c)
+
+In the early postmenopause, FSH levels continue to rise, while estradiol levels continue to decline until 2 years after the FMP, after which these hormone levels stabilize. The sub-stages +1a and +2b in early menopause last 1 year each and culminate once fluctuations in FSH levels stabilize. Stage +1a marks the completion of the 12-month interval required to define the FMP. This substage also marks the end of the peri-menopause (i.e., the time near menopause, which starts at stage −2 and ends 12 months following the FMP).27 Stage +1b includes the continued changes in levels of FSH and estradiol; vasomotor symptoms are most common in stage +1a and +1b. In stage +1c, the elevated FSH and low estra-diol levels become the new normal. This substage lasts for up to 3–6 years. As such, the early postmenopause stage spans a total of 5–8 years.27
+
+Late Postmenopause (Stage +2)
+
+At this stage, reproductive hormone levels are essentially pla-teaued and stable. While the burden of vasomotor symptoms eases off for many, physical symptoms attributable to lack of estrogen, such as vaginal dryness and urogenital symptoms, become more prominent at this stage. Interestingly, FSH levels may decline further with age, although more research is needed to confirm this observation.27
