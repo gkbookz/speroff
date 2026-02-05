@@ -1,0 +1,208 @@
+Given that the leading causes of death in the United States are due to chronic diseases that are influenced by age and lifestyle factors, the period of menopausal transition offers unique opportunities to the aging women as well as their health providers to proactively initiate preventive strategies toward improving quality of life as well as long-term health through medical intervention and counseling.
+
+**While not underrating the importance of good health habits among the young, we would argue that the impact of teaching preventive care**
+
+**is more observable and more tangible at middle age. The prospects of mortality and the morbidity of chronic diseases are viewed with belief, understanding, and appreciation during these older years. The chance of illness is higher, but the impact of changes in lifestyle is greater.**
+
+The following recommendations are derived from our own clinical experience:
+
+* Provide reassurance that reproductive aging is a normal phenomenon and not a disorder.
+
+* Provide guidance and education to facilitate a patient’s decision-making.
+
+* Provide time and an appropriate location for sensitive and uninterrupted discussions.
+
+* Use educational materials but also explain them using your own words.
+
+* Involve family members.
+
+* Be accessible and encourage communication. Consider designating a member of your staff as the menopause resource person.
+
+* Be involved in community and hospital educational programs for the public.
+
+* Use an effective, well-trained counselor for patients who need in-depth help in coping with life’s trials and tribulations.
+
+# **REFERENCES**
+
+...
+
+![][image8]
+
+Managing Menopausal
+
+Symptoms
+
+### **AN OVERVIEW**
+
+There is little question that estrogen is the most effective of available remedies for women who suffer from bothersome vasomotor symptoms (VMS) such as hot flushes and night sweats or from consequences of atrophy of reproductive tract tissues. However, in the 1990s, the focus of postmenopausal hormone therapy (HT) changed from short-term use for menopausal symptoms to long-term utilization as a preventive strategy against various diseases, including cardiovascular disease (CVD), dementia, and osteoporosis. This was due to biologic plausibility and observational data. The skeletal benefits in preventing osteoporosis are clear. However, long-term use of HT for the sole purpose of targeting CVD and dementia was challenged by a sequence of seminal clinical trials, with Women’s Health Initiative (WHI) being at the forefront. Not only did the clinical trial data indicate that HT did not protect against CVD, nor mitigate the risk of aging-related dementia, but, on the contrary, raised concerns regarding the potential for harm as evident in an increased risk of thrombotic phenomenon, stroke, and breast cancer in women who initiated HT that was
+
+over 10 years from menopause. In addition, the Women’s Health Initiative Memory Study (WHIMS) noted the incidence of cognitive deterioration was higher in the hormone-using postmenopausal women compared to placebo. The ensuing decades following publication of WHI findings witnessed passionate and widespread quests attempting to unravel potential mechanisms that could explain HT-related harm; for a brief period, the field of menopause was rendered complex and decision-making by clinicians and patients very difficult. In this section, we offer a comprehensive review of the literature, including more recent data and analyses, to help serve as a guide for the practicing clinician caring for postmenopausal women.
+
+### **MENOPAUSAL HORMONE THERAPY**
+
+**History1-4**
+
+The existence of hormones was unknown 200 years ago. In the last half of the 19th century, a scattering of chemists and physiologists began to produce hormonally active extracts from glands, bile, and urine of animals. Adventurous clinicians used these extracts to treat patients—for example, supplying thyroid hormone to treat severely hypothyroid individuals—and the specialty of endocrinology was born. The word “endocrine” was adopted to designate the “glands of internal secretion,” the multiple sources of hormones.
+
+Charles-Édouard Brown-Séquard, the son of a French woman and an American sea captain, was born on the island of Mauritius. Speaking fluent English and French, he practiced medicine and lectured in London and New York before settling in Paris. Brown-Séquard reported in 1889 that he was rejuvenated by the self-administration of extracts from dog testicles, most likely a placebo effect considering the scant amount of testosterone he could have extracted using his aqueous method, and he suggested that ovarian extracts would have the same revitalizing effect in women. Initial efforts to treat women around the end of the 19th century were largely unsuccessful, but in 1897, ovarian extract was reported to be effective for menopausal hot flushing.5
+
+The first American attempt to treat menopausal symptoms is attributed to E.L. Severinghaus and J. Evans of Madison, Wisconsin, who administered a derivative from the amniotic fluid of cattle in 1929\.2,6 In the 1930s, the ovarian hormones were isolated, and the “estrin” products and the synthetic estrogens, stilbestrol and ethinyl estradiol (EE), were administered to menopausal women. Edgar Allen and Edward Doisy were the first to isolate the ovarian hormone, estrogen. Allen was born in Colorado, educated at Brown University, and served in France during World War I. In 1933, he became the chairperson of the Department of Anatomy at Yale University. Doisy was born in Illinois and educated at the University of Illinois and Harvard. During World War I, he was assigned to the Rockefeller Institute in New York City and then to the Walter Reed Hospital in Washington, DC. Doisy was the first chairman of biochemistry at the St Louis University School of Medicine. He received the Nobel Prize in Medicine, along with Henrik Dam, in 1943 for his isolation and synthesis of vitamin K.
+
+In 1919, Allen and Doisy, both discharged from the army after World War I, joined the faculty at the Washington University School of Medicine in St Louis and began working together. Although later they ended up at different institutions, they continued their collaboration. In 1923 and 1924, Allen and Doisy reported the isolation and administration of “an ovarian hormone” from pig ovaries.
+
+In 1926, Sir Alan S. Parkes and C.W. Bellerby coined the basic word “estrin” to designate the hormone or hormones that induce estrus in animals, the time when female mammals are fertile and receptive to males. Doisy and his students Veler and Thayer in St Louis isolated a few milligrams of estrogen in crystalline form in 1929 from large amounts of urine from pregnant women. In 1932, this terminology was extended to include the principal estrogens in humans, estrone, estradiol, and estriol at the first meeting of the International Conference on the Standardization of Sex Hormones in London, although significant amounts of pure estradiol were not isolated until 1936\. At this meeting, A. Girard from France introduced a new reagent to isolate crystalline estrogen from mare’s urine, which enabled chemists to overcome the inability to isolate more than a few milligrams of estrogen.7
+
+In the 1920s, George W. Corner at the University of Rochester invited Willard Myron Allen, an organic chemist who was then a medical student, to join him in the study of the corpus luteum. Within 2 years, they had a pure extract; however, it was not until 1934 that crystalline progesterone was isolated. It took the corpora lutea of 50,000 pigs to yield a few milligrams. At the Second International Conference on the Standardization of Sex Hormones in London, Corner and Allen proposed the name *progestin*. Others proposed luteosterone, and, at a cocktail party, the various biochemists agreed to call the chemical “progesterone.”7
+
+By the 1940s, hormones were being administered to patients, but supplies were very limited and hormones were incredibly expensive. Progesterone, for example, costs $200 per gram. “To secure barely enough androsterone to cover the head of a pin, Adolph Butenandt had had to start with nearly four thousand gallons of urine; to obtain less than one hundredth of an ounce of pure testosterone crystals, Ernst Laqueur had had to process nearly a ton of bulls’ testicles. It took a full ton of cholesterol, from the spinal cords or brains of cattle or from the grease of sheep’s wool, to yield just 20 lb of the starting material from which progesterone could ultimately be obtained. Edward Doisy had had to process ovaries of more than 80,000 sows to get just 12,000ths of a gram of estradiol.”8
+
+| TABLE 22.1	Menopausal Hormone Therapy |  |
+| :---- | :---- |
+| **Composition of Conjugated Estrogens (Premarin)** |  |
+| Sodium estrone sulfate | 49.3% |
+| Sodium equilin sulfate | 22.4% |
+| Sodium 17a-dihydroequilin sulfate | 13.8% |
+| Sodium 17a-estradiol sulfate | 4.5% |
+| Sodium Δ8,9-dehydroestrone sulfate | 3.5% |
+| Sodium equilenin sulfate | 2.2% |
+| Sodium 17β-dihydroequilin sulfate | 1.7% |
+
+| Composition of Conjugated Estrogens (Premarin) |  |
+| :---- | ----- |
+| Sodium 17a-dihydroequilenin sulfate | 1.2% |
+| Sodium 17β-estradiol sulfate | 0.9% |
+| Sodium 17β-dihydroequilenin sulfate | 0.5% |
+
+In the 1930s, the Ayerst Company was extracting estrogens from the urine of pregnant women. Limited by the problems of supply, low activity, and bad taste and odor, Gordon A. Grant, head of biochemistry for Ayerst, suggested in 1939 that they use urine from horses. The process produced sodium salts from the sulfate esters of the various estrogens, yielding a water-soluble conjugate. **Premarin** (**conjugated estrogens**) **was approved in Canada in 1941 and in the United States in 1942 for the treatment of symptoms associated with menopause.**9 The tablets were and are still designated as variations of 1.25 mg, based on the equivalent amounts of Premarin and estrone (1.25 mg) that could produce the same effect in the Allen-Doisy bioassay (amount required to produce an increase in rat uterine weight). It was not until 1972 that the first quantitative analysis of Premarin was performed, based on gas chromatography. Studies indicate that there is a large number of steroids in Premarin, even androgens and progestins, but only 10 estrogens are present in sufficient quantity to have clinical effects (**Table 22.1**).
+
+### **ESTROGEN FORMULATIONS AND ROUTES OF ADMINISTRATION**
+
+**Oral Administration**
+
+An understanding of the relative potencies of commercially available estrogens is of great importance when prescribing estrogen, and the clinician should be familiar with the following potencies (**Table 22.2**).
+
+The 17a-ethinyl group of EE (by resisting metabolism) enhances hepatic effects, because no matter by which route it is administered, liver function is affected.10 The same is true for conjugated equine estrogens
+
+(CEEs). Contrary to the case with estradiol, the liver appears to preferentially extract EE and CEEs, regardless of the route of administration. Thus, the route of administration appears to influence the metabolic responses only in the case of specific estrogens, most notably estradiol.
+
+| TABLE 22.2	Relative Estrogen Potencies |  |  |  |
+| :---- | :---- | :---- | :---- |
+| **Estrogen** | **FSH Levels** | **Liver Proteins** | **Bone** |
+| Conjugated estrogens (CE) | 1.0 mg | 0.625 mg | 0.625 mg |
+| Micronized estradiol | 1.0 mg | 1.0 mg | 1.0 mg |
+| Estropipate (piperazine estrone sulfate) | 1.0 mg | 1.25 mg | 1.25 mg |
+| Ethinyl estradiol (EE) | 5.0 μg | 2-10 μg | 5.0 μg |
+| Estradiol valerate | — | — | 1.0 mg |
+| Esterified estrogens | — | — | 0.625 mg |
+| Transdermal estradiol | — | — | 50 μg |
+| Estetrola |  |  |  |
+
+FSH, follicle-stimulating hormone.
+
+aPotency is \~10-20% less than of EE.
+
+Data from Dennerstein L, Lehert P, Burger H, Dudley E. Mood and the menopausal transition. *J Nerv Ment Dis*. 1999;187(11):685-691; Smith-DiJulio K, Woods NF, Mitchell ES. Well-being during the menopausal transition and early postmenopause: a within-stage analysis. *Womens Health Issues*.  
+2008;18(4):310-318; Woods NF, Mitchell ES, Percival DB, Smith-DiJulio K. Is the menopausal transition stressful? Observations of perceived stress from the Seattle Midlife Women’s Health Study. *Menopause*. 2009;16(1):90-97; Avis NE, McKinlay SM. A longitudinal analysis of women’s attitudes toward the menopause: results from the Massachusetts Women’s Health Study. *Maturitas*.  
+1991;13(1):65-79; Morse CA, Smith A, Dennerstein L, Green A, Hopper J, Burger H. The treatment-seeking woman at menopause. *Maturitas*. 1994;18(3):161-173; and Defey D, Storch E, Cardozo S, Díaz O, Fernandez G. The menopause: women’s psychology and health care. *Soc Sci Med*.  
+1996;42(10):1447-1456.
+
+A major factor in the potency differences among the various estrogens (estradiol, estrone, estriol; **Figure 22.1**) is the length of time that the
+
+estrogen binds to its receptor. The higher rate of dissociation with the weak estrogen (estriol) can be compensated for by continuous application or higher doses to allow prolonged binding and activity. Estriol has only 20% to 30% affinity for the estrogen receptor (ER) compared with estradiol; therefore, it is rapidly cleared from a cell. However, if the effective concentration is kept equivalent to that of estradiol, it can produce a similar biologic response.11 However, at least two studies have been unable to demonstrate prevention of bone loss with the administration of 2-mg estriol daily, suggesting that target organ response may vary, even in biologically equivalent doses to estradiol.12,13 Because estriol protects the rat against breast tumors induced by various chemical carcinogens, it has been hypothesized that a higher estriol level protects against the more potent and harmful effects of estrone and estradiol.14 But antagonism of estradiol occurs only within a very narrow range of the ratio of estradiol to estriol, a range that is rarely encountered either physiologically or pharmacologically.15 Commercial preparations containing estriol, estradiol, and estrone comprise sufficient amounts of estrone and estradiol to produce standard clinical effects.16
+
+**FIGURE 22.1**
+
+Esterified estrogens are synthetically prepared from plant precursors and are composed mostly of sodium estrone sulfate with a 6% to 15% component of sodium equilin sulfate. Estradiol valerate is rapidly hydrolyzed to estradiol; therefore, the pharmacology and effects are comparable at similar dosages.17 However, a recent Swedish study noted that the peak level of thrombin is significantly higher with use of EE versus estradiol valerate, indicating that estradiol valerate would have a lower thrombotic risk. Nevertheless, estradiol valerate in hormonal contraceptive pills remains sparse in the United States.
+
+In recent years, estetrol (E4), yet another naturally occurring estrogen, has gained attention for its therapeutic potential for women’s health. E4 is unique to pregnancy, being produced exclusively in the fetal liver and can be detected in maternal blood at levels that are much lower than in the fetal circulation.18 In potency, E4 is 10 to 20 times weaker than that of EE.19,20 While E4 is available only as a Food and Drug Administration (FDA)-approved contraceptive formulation, its effectiveness in menopause management is actively being explored.21
+
+**Transdermal Estrogen Administration**
+
+Transdermal estradiol can also be administered by a patch, gel, emulsion, or spray. The patches first used for transdermal administration of estrogen contained an alcohol reservoir; estrogen was released through a semipermeable membrane attached to the skin with an adhesive. In the current generation of estrogen patches, the hormone is dissolved and distributed throughout the adhesive matrix, which has less skin reactions than traditional patches, even in tropical environments.22 The patches are designated according to the amount of estradiol delivered per day with formulations delivering as little as 14 μg to as much as 100 μg daily and are available in various doses and various trade names. (Climara and Vivelle are commonly available in the United States.) The gel is similarly available under various trade names (Divigel, EstroGel, Estreva Gel) and in various doses and can be applied once daily on an arm, anywhere from the wrist to the shoulder, or the thigh, without rubbing or massaging and alternating sides.23,24 The emulsion, Estrasorb, is packaged in foil pouches; usually, two packets are applied daily, one to each thigh, and rubbed in thoroughly.
+
+Evamist is the transdermal spray, and the usual dose is one spray daily to the forearm. (If more than one dose is required daily, each spray is on a separate site.)25 Elestrin is available in a metered dispenser. Simultaneous use of sunscreen on the site of administration should be avoided. If dosage is being monitored by blood estradiol levels, blood should be drawn from a site where transdermal estradiol has not been applied for several days. **The ideal dose of estrogen is that which allows for systemic symptom relief.**
+
+***Circulating Estradiol Levels in Users of Oral Versus Transdermal Estrogen***
+
+The concentration of estrogen in the hepatic portal system after oral administration is 4 to 5 times higher than that in the periphery.26 Because of first-pass metabolism in the liver, oral estradiol results in a circulating estrone-to-estradiol ratio of approximately 5; with transdermal administration, the ratio is 1\. The first-pass effect has important lipoprotein effects. For example, studies have demonstrated an increase in high-density lipoprotein (HDL) and decrease in low-density lipoprotein (LDL) and cholesterol with oral estrogens (discussed earlier in this chapter), an effect that is less prominent with transdermal estrogen administration.27,28 However, English data indicate that the transdermal administration of 50-μg estradiol twice a week is as effective as 0.625-mg oral conjugated estrogens, when combined with a progestin in sequential regimens, on bone mineral density (BMD) and lipids over a duration of 3 years.29 Standard doses of estrogen administered transdermally (50 μg) protect against fractures as do standard doses of oral formulations.30 However, although lower doses of estrogens can provide effective suppression of VMS as well as improve BMD, data on fracture risk reduction with low-dose regimens are lacking.31
+
+Studies comparing circulating estradiol levels in women receiving oral or transdermal estrogen reveal that while estradiol levels are in therapeutic range for bone protection, there exists substantial variation among individuals.32 Furthermore, due to the chemical components of CEEs (which are not measurable in serum samples on routine assays), it is difficult to measure a therapeutic level of estrogen in CEE users. In addition, individual women metabolize estrogen differently, depending on the route of administration, liver function, body composition, body size, potential  medication  interactions,  skin  absorption  (for  transdermal
+
+preparations), and the presence of binding proteins; all these can contribute to individual variations in serum estradiol levels.33 The only way to accurately compare clinical effectiveness of oral and transdermal estrogen delivery is to determine if the two methods of administration yield comparable blood levels; however, the first-pass hepatic effect may account for differences in clinical effectiveness, and this is difficult to quantify. The first-pass effect is particularly pronounced with oral estrogen formulations and raises sex hormone-binding globulin (SHBG) levels such that total serum estradiol levels are greatly affected. A potential advantage of transdermal treatment, because it has minimal to no effect on SHBG levels, is that it does not reduce the free unbound testosterone levels (which may have implications for sexual function in a subset of users) as are observed with oral estrogen therapy (ET).32
+
+***Systemic Effects of Hormone Therapy***
+
+**Clotting Factors**
+
+First-pass hepatic metabolism affects the synthesis of clotting proteins, markers of coagulation and fibrinolysis that can influence the risk of thrombosis and coronary heart disease (CHD) events. Oral estrogen increases factor VII and prothrombin 1 and 2 fragments, whereas transdermal estrogen decreases factor VII.34-37 Oral estrogen also increases circulating levels of matrix metalloproteinases, MMP-2 and MMP-9, enzymes that are associated with a tendency for clotting.38 However, what is important is to understand the different effects of oral and transdermal delivery on clotting factors and how they translate into clinical differences and cardiovascular risk.
+
+**Risk of Venous Thromboembolism**
+
+Resistance to activated protein C (APC) is an important marker for venous thrombosis; this risk is particularly exaggerated in individuals with inherited thrombogenic mutations but can happen even in the absence of these mutations. Oral estrogen increases APC resistance, whereas transdermal estrogen has no significant effect on this marker.39,40 Based on this difference, one would predict that transdermal delivery of estrogen would be less likely than oral delivery of estrogen to be associated with venous thromboembolism (VTE).
+
+A French case-control study (epidemiologic studies of the link between the transdermal route of administration and a relatively rare event are possible in France because of the popularity of the transdermal method) reported no increased risk of VTE in users of transdermal estrogen, as compared with a 4-fold increase in oral estrogen users.41-43 In addition, an English nested case-control study reported that transdermal delivery of estrogen did not increase the risk for VTE, regardless of the type of estrogen used, whereas among oral estrogen formulation, CEE had a much higher rate of VTE compared to oral estradiol.44 Estrogen users who carried a factor V Leiden mutation or a prothrombin mutation had a 25-fold higher risk of VTE than did women who did not use estrogen and did not have either mutation. The women with a prothrombotic mutation who used transdermal estrogen had a VTE risk that was similar to that of women with a prothrombotic mutation who did not use estrogen. The French E3N prospective cohort study also reported an increased risk of VTE with current users of oral therapy, a hazard ratio (HR) of 1.7 (confidence interval \[CI\] \= 1.1-2.8), a ratio that is similar to the usual 2-fold increase repeatedly documented in the literature, and no increase with transdermal estrogen.45 Analysis of the WHI trials noted that despite an increase in APC resistance, this did not explain the increase in ischemic stroke noted in oral HT users.46,47 Venous thrombosis is discussed in more detail later in this chapter.
+
+**Lipids and Hepatic Enzymes**
+
+Both oral and transdermal estrogens reduce total cholesterol, LDL cholesterol, and lipoprotein(a). Compared with transdermal estrogen, oral estrogen produces significantly greater elevations in HDL cholesterol and increases triglycerides, whereas transdermal estrogen decreases triglyceride levels.34,36,48-50 Indeed, triglyceride levels that were markedly elevated in response to oral therapy return to normal when treatment route is changed to transdermal administration.51 In addition, oral ET is associated with an increased risk of gallstones.52 This risk is present in current and former estrogen users and is somewhat attenuated with the addition of progestin-to-estrogen therapy.52
+
+**Inflammatory Markers**
+
+Women on oral estrogen have increased levels of C-reactive protein (CRP), whereas those taking transdermal estrogen do not.34,36,48,53-56 However, oral HT, while increasing CRP, reduces the circulating levels of other inflammatory markers (E-selectin, intercellular adhesion molecule-1, vascular cell adhesion molecule-1, monocyte chemoattractant protein-1, and tumor necrosis factor-a) with inconsistent effects on interleukin-6 (IL-6).53,57 Transdermal estrogen does not affect the levels of these inflammatory markers. It is not certain that the decrease in CRP levels with statins and the increase with oral estrogen are instrumental in clinical outcomes or reflect other effects.
+
+A longitudinal study of 346 postmenopausal women taking oral HT reported that elevated CRP was a strong predictor of future cardiac events, but only in those with increased IL-6 levels.55 An increase in CRP alone was not associated with an excess of events. **The difference in CRP levels between users of oral versus transdermal therapy, especially in younger postmenopausal women, is of little clinical significance.** In fact, in the Estrogen Replacement on Progression of Coronary Atherosclerosis trial, estrogen-induced increases in CRP had no effect on disease progression, as measured by serial angiograms.56 A study from the WHI confirmed the correlation between baseline levels of CRP and an elevated risk of CHD, **but the increase in CRP induced by oral HT did not further increase the risk**.48 While CRP may cause endothelial inflammation and subsequent atherosclerosis, it may also very well be elevated secondary to first-pass hepatic metabolism (ie, pharmacologic effect); unlike IL-6, its elevation has an overall pro-inflammatory effect.47
+
+**Cardiovascular Disease Risk**
+
+Both oral and transdermal administration of HT are associated with a decrease in myocardial infarction risk in observational studies.58 However, the WHI trials and postintervention data offer additional insight and are discussed in further detail later in this chapter.
+
+**Metabolic Syndrome**
+
+The menopausal transition itself is associated with increased likelihood of metabolic dysfunction. However, in a review of several randomized controlled trials (RCTs), it was noted that overall effects on markers of the
+
+metabolic syndrome, including insulin resistance, suggested a neutral or improved metabolic profile.59 Despite this favorable effect, in women with the metabolic syndrome, caution is recommended given the increased risk of cardiovascular events, as noted in a nested case-control study of CHD in the WHI trials.59,60 Transdermal estradiol has minimal effects on inflammation, coagulation, and insulin sensitivity.60,61 In a randomized, double-blind, placebo-controlled trial, improvements in cardiac autonomic control and endothelial function indices were noted in healthy perimenopausal and early postmenopausal women following 12-month treatment with transdermal estrogen and intermittent progesterone regimen compared to placebo.62 In addition, an analysis of the Women’s Health Initiative Observational Study (WHI-OS) noted that newly diagnosed hypertension was less in women who utilized transdermal estradiol or oral estrone preparations versus CEE that was not altered by the presence of a progestational agent (HR \= 0.85; 95% CI \= 0.73-1.00 and HR \= 0.83, 95% CI \= 0.72-0.96, respectively).63
+
+**Effects in Smokers**
+
+Limited evidence suggests that postmenopausal women who smoke may have a better response to transdermal estrogen than to oral estrogen, including greater reductions in total peripheral resistance, vascular sympathetic tone, and norepinephrine levels and increased vascular responsivity.64 Smokers receiving transdermal estradiol have decreased plasma viscosity and thromboxane B2 levels.64 These results raise the
+
+possibility, although the data are limited, that smokers may represent a group of women for whom transdermal estrogen would be an advantage.
+
+**Carbohydrate Metabolism**
+
+There is little difference between the oral and transdermal methods of delivery on carbohydrate metabolism. Both methods have a beneficial impact on central abdominal fat content, glucose levels, and insulin resistance, associated with a reduced risk of developing adult-onset diabetes mellitus.65-70 The effect of HT on carbohydrate metabolism/diabetes risk is discussed in further detail in “Hormone Therapy” section.
+
+**Skeleton**
+
+The effects of menopausal hormones on bone metabolism, BMD, and on fracture risk are discussed in Chapter 23\.
+
+**Estradiol Implants**
+
+Estradiol pellets are available in doses of 25, 50, and 75 mg for subcutaneous administration twice yearly. The 25-mg pellet provides blood levels in the range of 40 to 60 pg/mL, levels that are comparable with those obtained with standard oral doses.71,72 However, the effect of subcutaneous regimens is cumulative, and after several years, the blood levels are 2 (b.i.d.) to 3 (t.i.d.) times higher and can persist for up to 2 years following last insertion. We believe that estradiol pellets do not confer any advantage over the standard hormone regimens. We recommend that women receiving estradiol pellets be monitored with blood levels of estradiol. In women in whom serum estradiol levels are greater than 200 pg/mL (or even \>100 pg/mL), prolonging intervals between insertions should be considered.
+
+***Oral Versus Transdermal Administration***
+
+It is difficult to draw conclusions about clinical differences between oral and transdermal hormone delivery based on secondary markers. Epidemiologic studies on clinical events are needed. However, this is a challenge because of the relatively small number of women receiving transdermal estrogen. In addition, the studies must adjust for individual variability of dosing to ensure that circulating estrogen levels in the patients being studied are similar.
+
+Given that transdermal route of delivery is suggested to lessen the risk for thrombotic events linked with exogenous estrogen use, it is often preferred by patients and, when applicable, allows monitoring of serum estradiol levels. Although comparison studies have not been performed, it is reasonable to expect similar pharmacokinetics for all transdermal methods
+
+—more stable/constant estradiol levels, less fluctuation, and theoretical benefits over oral therapy. Furthermore, because of the lack of effects of transdermal delivery on serum SHBG levels and thereby with minimal effect on free androgen levels, transdermal method for estradiol delivery may be preferable in women with impaired sexual function.
+
+**Vaginal Administration of Estrogen**
+
+***Management of Symptoms of Vaginal Atrophy Very Low-Dose Method***  
+For some women, genitourinary symptoms may dominate the symptom burden. Others who initiate hormones for managing bothersome VMS may not gain full relief from the symptoms of vaginal atrophy with systemic HT. Local vaginal administration of estrogen makes sense for these patients. Vaginal treatment is especially helpful when a rapid local response is desired. In addition, there are many women who desire the genitourinary effects of estrogen, but either must or wish to avoid systemic therapy. Overall, there is no evidence that one method or preparation is superior to the others in achieving clinical response. **Measurement of vaginal pH from the lateral vaginal wall is a simple and inexpensive way to assess adequate estrogen effects on the vagina. It has been impressive in our experience and others how an acidic pH** (**\<4.5**) **obtained from the lateral, outer third of the vagina correlates well with good estrogen**
+
+**effects.** Vaginal pH correlates well with vaginal maturation index, symptomatic vulvovaginal atrophy, and visual inspection of the vaginal epithelium.73-75
+
+Estrogen in the form of vaginal creams is absorbed very readily from a vagina with immature, atrophic mucosa.76 Indeed, the initial absorption is rapid, and relatively high circulating levels of estrogen are easily reached. As the vaginal mucosa matures, absorption decreases.77 This decline takes approximately 3 to 4 months, after which lesser but still significant absorption takes place.78 Effective treatment of vaginal atrophy with minimal absorption can be achieved with the administration of 0.3-mg conjugated estrogens, b.i.d. to t.i.d. per week.79,80 Typically, addition of a progestogen is not indicated with local vaginal therapy; however, data regarding endometrial safety for 1 year or more are not available. **We believe that treatment with a vaginal cream longer than 12 months requires endometrial surveillance.**
+
+The amount of estradiol delivered in low-dose tablet form, or a ring is not sufficient to treat menopausal symptoms, but effectively improves local urogenital atrophy and reduces recurrent urinary tract infections (UTIs). This has been accepted as a method to relieve atrophic vaginal symptoms in women with contraindications to estrogen treatment; however, systemic effects do occur, although not deleterious effects.81 Although vaginal ET is effective at any age, women younger than 60 years may have improved cellular response versus women older than 60 years.82
+
+**Estring** is a 55-mm-diameter silicone ring that contains 2-mg estradiol, with a release rate of 7.5 μg/d for 90 days.83 European studies have demonstrated that vaginal maturation can be achieved with this ring that can be left in place for 3 months, with low level of systemic absorption.84,85 The subjective symptoms associated with vaginal atrophy are rapidly relieved. No change in endometrial thickness was observed after 1 year of treatment.86
+
+**Vagifem** is a vaginal formulation that is currently available in the United States as a tablet that contains 10-μg estradiol; the initial dose of one tablet daily provides relief from atrophic symptoms within 2 weeks.87 After the first 2 weeks, the maintenance dose is twice weekly, and endometrial thickness has been reported to not change from baseline; however, the study was only 6 months in duration.88 One 2-month study found no evidence of
+
+endometrial stimulation; another reported one case of vaginal bleeding with endometrial proliferation.89-91
+
+The systemic absorption of estrogen from vaginally administered formulations (low-dose estradiol ring or tablet) is very low, especially after the vagina achieves estrogen-induced maturation (about 3 months). Is this low level of absorption free of the risk of endometrial hyperplasia? The problem is that all studies have been too short (all :\<1 year, except one 2-year study) to determine long-term endometrial safety. Although systemic absorption occurs, the circulating estradiol levels with these low-dose methods remain in the normal postmenopausal range.86,88,92-95 In a recent secondary analysis of RCT data, the authors compared serum estrogen levels following 12-week use of vaginal estradiol (10 μg/d for 2 weeks and then twice weekly) versus placebo; the average estradiol levels were 4.3 pg/mL in those treated with E2 versus 3.5 pg/mL in individuals receiving placebo, both levels being well within the postmenopausal range.96 Nonetheless, because even small increases in circulating estradiol levels may cause distant target tissue responses (eg, an increase in bone density or an improvement in the lipid profile97,98), clinicians must retain vigilance and should not assure patients that vaginally administered estrogen is totally free of systemic activity.99 **Although the change in blood levels is very slight and for that reason not effective for the relief of VMS, we believe that some form of endometrial surveillance is warranted with long-term treatment, such as ultrasonographic monitoring of endometrial thickness with biopsy when indicated. This ultrasonographic approach is preferable to complicating the treatment regimen with the addition of a progestational agent to vaginal estrogen just for endometrial benefit. We further suggest that each patient titrate their dose and schedule of treatment to balance an effective response with minimal dosing. For women who are breast cancer survivors and are considering this treatment, decisions should involve patients’ oncologist, given the potential risk of increased systemic estrogen levels.**100 Of note, postmenopausal women taking an aromatase inhibitor (AI) require special consideration, given their lower circulating estradiol levels. In a recent nested case-control study assessing the risk of breast cancer recurrence in women on tamoxifen or AI receiving vaginal ET, there was no increase in breast cancer recurrence; despite these reassuring

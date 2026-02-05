@@ -1,0 +1,179 @@
+point, the risk of breast cancer after 3 years was significantly 68% *reduced*
+
+with tibolone treatment, although the dose was lower, 1.25 mg daily.341
+
+It is important to note that the previous literature documenting beneficial actions of tibolone on the breast reflected the impact of tibolone on normal breast tissue; it is plausible that tibolone’s activity to lower local bioactive estrogen levels in target tissues might be lost in cancer cells. The contrary results in the LIFT trial could reflect its older population of women at high risk for fractures, a population that also differed by having lower body weights, no history of tamoxifen treatment, and lower risk factors for breast cancer.
+
+Although the LIBERATE trial may apply to all breast cancer survivors, speaking strictly in a scientific sense, the results were derived mainly from tamoxifen users with 10-fold fewer users of AIs. The possibility that estrogen or tibolone would interfere with the beneficial effects of tamoxifen or AIs has always been one of the objections to treating breast cancer survivors with estrogenic hormones. In a subgroup analysis of the LIBERATE trial, the group of women who had used AIs had a greater risk of recurrent breast cancer compared with tamoxifen; however, the CI was wide because of relatively small numbers. Possibly, the estrogenic effect of tibolone would be more pronounced on an occult breast cancer in estrogen-depleted tissue compared with tissue where tamoxifen was bound to the ER and prevented estrogenic stimulation. We do not know if the LIBERATE data are meaningful for future treatment regimens. Nevertheless, **until there are new data, the use of tibolone in women with a history of breast cancer remains relatively contraindicated.**
+
+**Effect of Tibolone on the Bone**
+
+These effects are discussed in Chapter 23\.
+
+**The sum of the various biologic effects of tibolone and its metabolites on the cardiovascular system should neither increase nor decrease the risk of coronary artery disease. Thus far, there has been no indication for an increased risk of VTE, but this is a potential side effect that requires further epidemiologic studies. Tibolone does not stimulate the proliferation of breast cells and affects enzyme activity in the breast to lower breast tissue concentrations of active estrogen. Tibolone does not increase breast density on mammography and does not increase the frequency of mastalgia. The reported increased risks of breast cancer and endometrial cancer in observational studies very likely represent “preferential prescribing” of tibolone in Europe.**342,343 **Women prescribed tibolone in Europe more often had chronic breast disease, a personal history of breast cancer, previous dysfunctional uterine bleeding, hypertension, and previous uterine operations. Most importantly, more women prescribed tibolone had a history of previous treatment with unopposed estrogen. Thus, clinicians were more likely to prescribe tibolone to women they believed were at higher risks for these two cancers, and this would yield higher rates in treated groups compared with control groups.**
+
+### **NONHORMONAL TREATMENT OPTIONS FOR VASOMOTOR SYMPTOMS**
+
+The first-line approach for the management of VMS (hot flushes and night sweats) in otherwise healthy but symptomatic population of perimenopausal and recently menopausal women is HT. However, there exist a substantial number of women who either cannot, should not, or will not accept HT. Pharmacologic nonhormonal options for managing VMS are listed in **Table 22.4**.
+
+There are many different medications and compounds that have been tried for the treatment of hot flushes, yet only a few successfully limit symptoms and the potential for harmful or bothersome side effects. Clonidine, bromocriptine, and naloxone given orally are only partially effective for the relief of hot flushes, yet require high doses with a high rate of side effects, such as drowsiness and dry mouth.344,345 Bellergal treatment (a combination of belladonna alkaloids, ergotamine tartrate, and phenobarbital) is slightly better than a placebo and a potent sedative in the short term; however, one study documented a similar response with Bellergal and placebo after 8 weeks.346,347 Veralipride, a dopamine antagonist that is active in the hypothalamus, is relatively effective in inhibiting flushing at a dose of 100 mg daily but is associated with major side effects, including mastodynia and galactorrhea.348-350 800 IU vitamin E, daily is barely more effective than placebo.351 Dong quai, ginseng, black cohosh, isoflavones (including soy protein), yoga, and acupuncture all have little clinical difference compared with placebo treatment.352-363 Clonidine (given as a patch or orally at 0.1 mg/d) is only partially effective for the relief of hot flushes and has a high rate of side effects, such as drowsiness and dry mouth.344,345 MPA (10-20 mg daily) and megestrol acetate (20 mg daily) are also effective (as effective as estrogen), but concerns regarding exogenous steroids, especially in patients who have had breast cancer, would apply to progestins as well.364-366
+
+| TABLE 22.4	Drugs for Hot Flushing—Randomized Clinical Trial Results |  |  |
+| :---- | :---- | :---- |
+| **Drug** | **Dose (mg/d)** | **Reduction in Flushing (%)** |
+| Citalopram (Celexa) placebo | 20 | 50, same as placebo |
+| Fluoxetine (Prozac) | 20 | 50, same as placebo |
+
+| Drug | Dose (mg/d) | Reduction in Flushing (%) |
+| :---- | :---- | :---- |
+| Sertraline (Zoloft) | 50,100 | 40, same as placebo |
+| Paroxetine (Paxil) | 12.5 | 62 |
+|  | 25 | 65 |
+|  | 7.5 | 40 |
+| Paroxetine (Brisdelle) | 7.5 | 40 |
+| Venlafaxine (Effexor) | 37.5 | 37 |
+|  | 75 | 61 |
+|  | 150 | 61 |
+| Desvenlafaxine succinate (Pristiq) | 100 | 64 |
+| Gabapentin (Neurontin) | 900 | 50 |
+| Pregabalin (Lyrica) | 150 | 65 |
+| Fezolinetant | 45 | 51-61 |
+
+In recent decades, selective serotonin reuptake inhibitors (SSRIs) and selective norepinephrine reuptake inhibitors (SNRIs) have gained a reputation for significant efficacy in treating hot flushing. The drugs that have been studied include citalopram (Celexa), fluoxetine (Prozac), sertraline (Zoloft), paroxetine (Paxil, Brisdelle), and SNRIs, venlafaxine (Effexor) and desvenlafaxine succinate (Pristiq). In addition, antiseizure medications, gabapentin (Neurontin) and pregabalin (Lyrica), have been demonstrated to reduce VMS (see **Table 17.10**).
+
+Low-dose paroxetine is the first of non-HT medication that was FDA-approved for the treatment of hot flushes. In an RCT comparing low-dose paroxetine (7.5 mg daily) to placebo for the treatment of hot flushes, treatment with paroxetine had a statistically significant reduction in VMS compared to placebo.367 However, it is less effective than HT in relieving
+
+VMS and should be reserved for use in those women who have a contraindication to HT.
+
+Venlafaxine was studied in breast cancer survivors; although the optimal dose was 75 mg, an appreciable response with 37.5 mg indicated that it would be worthwhile to begin treatment with the lower dose.368-370 The response was very rapid, within days, and therefore, the dose can be increased in 1 to 2 weeks. The main side effects were mouth dryness, anorexia, nausea, and constipation. The efficacy of venlafaxine was demonstrated to be the same in women taking or not taking tamoxifen. Desvenlafaxine succinate is a metabolite of venlafaxine and equally effective as the parent compound.371,372 **The effects of citalopram, fluoxetine, and sertraline are no more effective than placebo, about a 50% reduction in short-term trials.**373-377 A 2015 systematic review demonstrated that fluoxetine and sertraline are less effective than other SSRI or SNRI, which can reduce hot flushes by approximately 65% within the first week. Due to variable individual response, if symptoms do not improve within the first 2 weeks, switch to an alternative medication is warranted.378 Similarly, prospective RCT of postmenopausal Mexican women compared only sertraline and citalopram and found that citalopram reduced VMS and urogenital symptoms more than sertraline and also improved mental health factors, such as mood, irritability, and exhaustion.379
+
+Gabapentin (Neurontin) is a γ-aminobutyric acid analog that has been used for seizures since 1994\. It is also effective for migraine headaches, tremors, and panic disorder. In a gabapentin clinical trial, 67% of the treated women experienced more than a 50% reduction in flushes at week 12, compared with 38% in the placebo group.380 The most common side effects were somnolence (20%) and dizziness (13%). Peripheral edema occurs occasionally because of an induced decrease in serum protein. The potency of this agent appears to be more modest than the SSRIs in a dose of 900 mg/d.381,382 Side effects are common at higher doses, and further studies are needed to compare gabapentin to HT.383,384
+
+Pregabalin (Lyrica), a more potent form of gabapentin, is an anticonvulsant drug that has been used in doses of 150 to 300 mg daily to treat anxiety and neuropathic pain, for example, diabetic neurogenic pain, pain  after  shingles,  and  fibromyalgia.  Side  effects  include  dizziness,
+
+drowsiness, visual disturbances, tremor, weight gain, and a decrease in libido. In a phase III randomized trial, a dose of 75 mg b.i.d. (the recommended dose because of more side effects with higher doses), hot flushing was reduced by 65% after 6 weeks of treatment, an impact that was only 15% greater than placebo.385 Although the data are limited to this short-term, small clinical trial, the effect of pregabalin appears to be comparable to gabapentin.
+
+It is worth trying to titer the dose down to its lowest effective level because of a bothersome incidence of decreased libido. In addition, clinical experience indicates that it is best to slowly titrate upward to the recommended dose and, likewise, to wean the patient slowly when discontinuing treatment. SSRIs are effective for flushing secondary to both tamoxifen and hypoestrogenemia, and the efficacy is similar in women with and without breast cancer.386 **An added advantage of the SSRIs is the fact that the clinical studies have also reported improvements in depression, anxiety, and sleep. Gabapentin is useful in those with difficulty sleeping, while clonidine may be more beneficial in women who also have hypertension.**
+
+**Caution is advised when considering SSRIs in women with a history of breast cancer being treated with tamoxifen.** Tamoxifen is converted to an active metabolite by enzymes that are inhibited by certain SSRIs. Paroxetine coadministration decreases plasma concentrations of the active tamoxifen metabolite.387,388 A lesser effect is associated with fluoxetine and sertraline. In a retrospective cohort study, only paroxetine use during tamoxifen therapy was associated with an increased risk of death due to breast cancer.389 **Paroxetine, fluoxetine, and sertraline are, therefore, best avoided in women with a history of breast cancer who are being treated with tamoxifen.**
+
+**Until recently, SSRIs were the logical choice for symptomatic women for whom HT is contraindicated or not accepted by patients, although the reduction in hot flushing is considerably less than what can be achieved with estrogen treatment.** The therapeutic landscape in the world of menopause was recently transformed with the addition of fezolinetant, a neurokinin 3B receptor antagonist that became the second nonhormonal drug (after Brisdelle) to gain FDA approval (May 12, 2023\) for the management of moderate-to-severe VMS.390-392 This class of drugs
+
+acts by suppressing the pathogenesis of hot flash at its source— that is, at the level of the thermoregulatory center. The KNDy neurons (kisspeptin, neurokinin, and dynorphin) are a unique population of cells that project onto and influence the activity of the hypothalamic thermoregulatory center. Neurokinin, acting via its receptors (3BR and 1BR), is a stimulant for the KNDy neurons, resetting the hypothalamic thermoregulatory center toward heat conservation; the net result of neurokinin signaling is a transient rise in the core body temperature that underlies the vasomotor phenomenon of hot flash (**Figure 22.4**). By blocking hypothalamic neurokinin 3BR’s, fezolinetant modulates and restores the normal sensitivity of the hypothalamic thermoregulatory neurons, thus effectively reducing both the severity and frequency of VMS.
+
+### **BIOIDENTICAL HORMONES**
+
+Publication of the WHI hormone trials was followed by a period of much confusion and concern regarding safety of prescription HT. In the wake of both prescriber and patient distrust of HT, an upsurge of interest in bioidentical hormones occurred. Bioidentical hormones have since garnered much interest from the lay public, as well as generated much political, financial, and legal conflict. Bruce Patsner, research professor in the Health Law and Policy Institute at the University of Houston Law Center, has written what is, in our view, a masterful analysis of the problem, with suggestions for its resolution.393
+
+**The History of the Conflict**
+
+The operations of a pharmacy are regulated in the individual states by state boards of pharmacy, in a system similar to the regulation of medical practice. The first federal law regulating drugs, the Federal Food, Drug, and Cosmetic Act, was passed in 1938, at a time when most drugs were compounded according to a doctor’s prescription. The American Pharmacists Association defines pharmacy compounding as the preparation of a prescription drug that is “individualized” to the needs of the patient. This changed after World War II with the development and growth of the
+
+pharmaceutical industry. The Kefauver-Harris Amendment in 1964 extended the role of the FDA to include safety and efficacy of manufactured drugs.
+
+**FIGURE 22.4** Hypothalamic neurokinin signaling as a mechanism for menopausal hot flush.
+
+In the 1990s, the FDA began to regard the drugs coming from compounding pharmacies as falling under the “new drug” regulations, and therefore, the FDA had jurisdiction over the marketing and promotion of those drugs. The pharmacy world was immediately challenged; there was no way that an individual pharmacy could carry out the kind of clinical studies required for the approval of new drugs. Thus, the pharmacists immediately realized that all compounded drugs would be illegal. At the same time, the FDA was a bit ambivalent, acknowledging that there were
+
+examples where the individual needs of a patient required the compounding of a drug, for example, the creation of a liquid preparation when none was available. This was before compounding took to the internet for marketing and promotion.
+
+In 1992, the FDA issued its Compliance Policy Guide on Compounding, reserving a right for “selective enforcement,” as a compromise between believing it was correct in assuming that compounded drugs represented new drugs and admitting that some patients required compounding. The pharmacy profession immediately rejected the idea that the FDA had any regulatory jurisdiction over pharmacies. The 1997 Food and Drug Modernization Act attempted to clarify the situation. An amendment was added to the existing laws stating that compounded drugs were not “new drugs,” but at the same time, the 1997 act prohibited the marketing of compounded drugs.
+
+The pharmacy profession sued the FDA, arguing that a restriction on advertising and promotion of compounded drugs was unconstitutional, a restriction of free speech. The District Court ruled against the FDA in 1999\. The FDA appealed and lost again in the Ninth Circuit Court of Appeals, which further invalidated the entire 1997 act. In 2002 the U.S. Supreme Court upheld the Circuit Court decision.
+
+The FDA issued a new Compliance Policy Guide in 2002, stating that selective enforcement would hinge on three major factors: (1) a potential adverse effect of a drug, (2) whether drugs were compounded from non-FDA-approved components, and (3) whether compounded drugs were similar to drugs already removed from the market for safety reasons. At this point, the FDA affirmed that it did not want to infringe on the traditional practice of compounding, the preparation of a drug according to a doctor’s prescription to fit an individual patient’s requirements.
+
+Wyeth Pharmaceuticals filed a Citizen Petition with the FDA in October 2005 requesting that the FDA take action against several compounding pharmacies that were primarily internet based. The Petition’s major allegation was that these pharmacies were essentially manufacturing new drugs and should be subject to new drug regulations. On January 9, 2008, the FDA announced it would take action against seven pharmacies providing prescription bioidentical hormones and issued warning letters that
+
+potentially could be followed by seizures of drugs and injunctions against production.
+
+The FDA would like to regard compounded drugs as “new drugs,” but the legal precedent has now been set by the courts: Compounded drugs are not “new drugs.” This was reaffirmed in a 2006 decision in the U.S. District Court for Texas. The FDA would further like to regard the giant compounding pharmacies, especially those operating over the internet, as manufacturers, like pharmaceutical companies, but again, the court decisions have prevented the FDA from requiring compounding pharmacies to meet “new drug” standards. The “new drug” argument does not work.
+
+“Bioidentical” and “natural” are often used in concert. Strictly defined, to meet the definition of bioidentical, the hormones must reflect the endogenous milieu (ie, the right balance of estrone, estradiol, and estriol, the three endogenous estrogens) and natural progesterone (the progestational agent synthesized by the ovarian corpus luteum after ovulation) and right levels and ratio of circulating androgens (testosterone, androstenedione, and DHEA). The formulations that are available as bioidentical are created in compounding pharmacies and contain several of the aforementioned hormones, but neither the regimens nor the formulations are standardized. Furthermore, batch-to-batch variability in dosage is inherent.100 The term *bioidentical* holds marketing value, erroneously implying greater safety and better efficacy. The situation is further complicated because consumers assume that the marketed formulation offers better efficacy and safety. This, however, is not the case as these compounded hormones are not subject to the same regulations as approved HT nor are there studies that have demonstrated long-term safety or better efficacy in comparison to the approved “natural” formulations.394 The problem is that compounding pharmacies are not required to compare the formulation with the performance of an approved product, nor is there any way for a patient to be assured that the dosage is correct (that the drug contains what it is supposed to contain). Thus, there are no RCTs demonstrating safety and efficacy, let alone superiority to the approved formulations.394
+
+Lay proponents of bioidentical compounded hormones often propose testing of salivary hormone levels to guide dosing of compounded formulations. Assessments of this approach by researchers, as well as
+
+organizations such as the American College of Obstetricians and Gynecologists and the Endocrine Society, have concluded that the variations in salivary sex steroid levels from individual to individual and from specimen to specimen preclude clinical interpretation.100,395-397 For the majority of patients, laboratory testing is not necessary in hormone decision-making. Furthermore, given the lack of scientific data demonstrating safety, the use of bioidentical hormones over approved HT regimens is not recommended.398
+
+**A Better Approach**
+
+The American Pharmacists Association and the National Association of Boards of Pharmacies define compounding as the steps required in order to provide a drug in response to a clinician’s prescription according to an individual patient’s needs and the preparation of drugs in anticipation of a demand. Therefore, there are three people involved: the patient, the clinician, and the pharmacist. This is in contrast to the production of large amounts of a drug for a national market of unknown users. **The American Pharmacists Association says that if an FDA-approved product is commercially available that meets a patient’s needs, it should be the drug provided**.
+
+The key to the position of the pharmacists is the contention that there are circumstances, decided by the patient, that make the use of commercial products not a good choice. This seems reasonable, but it is also reasonable that this decision requires the involvement of the clinician because ultimately a prescription is still required. The traditional view of compounding, therefore, is one of personal relationships with patient, clinician, and pharmacists. This becomes a totally different story when a large internet-based pharmacy responds to thousands of prescriptions with no knowledge of the patients. What happened to the “individualization” aspect of compounding? Is it practicing medicine by the pharmacy to have a registered clinician employed by the pharmacy to interpret hormone levels and adjust doses?
+
+Clinicians are appropriately frustrated by the claims made that bioidentical compounded drugs have greater efficacy and safety. Bruce Patsner argues that it should be accepted that bioidentical drugs from the
+
+big compounding pharmacies do not meet the definition of compounding supported by the pharmacist’s own organization, the American Pharmacists Association: a personal relationship of patient, clinician, and pharmacist addressing an individual’s needs.399 The FDA can argue that the big operations are not legitimate compounding, but rather big commercial operations directed to unknown consumers.
+
+Patsner also argues that the most vulnerable point is the false safety and efficacy claims. The contention should not be that the safety and efficacy claims are inaccurate, because the pharmacies can always compose their words to avoid legal assaults. The point of emphasis should go back to the pharmacist’s published credo: If a commercial, approved product is available to meet the patient’s needs, a compounded product is not indicated. Replacing a commercial product with a “natural,” untested, unregulated product is not the same thing as prescribing a compounded product when no commercial product will meet the individual’s needs.
+
+Pastner summarizes his argument by saying that the large compounding pharmacies are not true compounders because they advertise and promote their products as replacements for commercially available, approved, and tested drugs and that the attempt at “individualization” uses an unsubstantiated method that marginalizes clinicians.399
+
+The bioidentical hormones and the various commercial female hormone products are produced by pharmaceutical companies using similar methods that start from the same raw material, usually soy or yams. Some of the commercial products available consist of estradiol, testosterone, and progesterone, the exact same steroid drugs provided by compounding pharmacies. A major difference between the commercial products and products from compounding pharmacies is the important fact that commercial products are federally regulated and tested for purity and potency; compounding pharmacies have not been regulated in this manner.
+
+The compounded estrogen formulations that contain combinations of estrone, estriol, and estradiol contain sufficient estradiol to produce the same biologic effects associated with commercial preparations. There are no clinical studies documenting that these combinations confer better results or safety. Whether the presence of estriol reduces the risk of breast cancer has not been tested in appropriate clinical studies. Case-control data indicate that estriol used without a progestational agent increases the risk of
+
+endometrial cancer; thus, its biologic behavior is similar to that of other estrogens.400
+
+**Custom-compounded formulations have not been proven to be safer or better and, therefore, should not be regarded as having similar risks and benefits as commercial products. Claims for custom-compounded products have not been scientifically tested. Tailor-making an HT regimen according to salivary testing is an appealing idea that has not been addressed scientifically, and given the variability in salivary hormone levels, it is unlikely that clinical studies would yield useful information. Recommendations promoting customized compounded formulations individualized to salivary sex steroid hormone profiles thus should be viewed with cynicism as the salivary hormone levels vary widely between individuals and from measurement to measurement within the same individual. Books and pharmacies promoting their own products should similarly be viewed with caution. Patients who wish to use products similar to endogenous hormones should be made aware of the content of available commercial formulations and reassured that marketed and approved 17**β **estradiol and micronized progesterone formulations are indeed reliable bioidentical representatives. Books and pharmacies promoting their own products should be viewed with caution; do not confuse marketing with science.**
+
+### **ALTERNATIVE THERAPIES**
+
+The business of selling alternative therapies is now a worldwide phenomenon. The promotion of many of these treatments relies on a network of alternative providers, authors, and compounding pharmacies. Why are herbs and botanicals not regulated? In the United States, the Dietary Supplement Health and Education Act of 1994 deregulated the industry by classifying dietary supplements as neither foods nor drugs. Thus, manufacturers of dietary supplements are not required to demonstrate that they are safe or effective. In addition to a lack of regulation, there are many other problems associated with herbs and botanicals. The products vary in the amount and purity of active ingredients; indeed, products on the
+
+shelf are often adulterated and contaminated with drugs or metals.401 And very importantly, there is enormous variation in the plants themselves because of genetic, harvest year, and processing differences and in individual metabolism of the products.
+
+**Alternative Therapies for Vasomotor Symptoms:**
+
+**Phytoestrogens**
+
+“Phytoestrogens” is a descriptive term applied to nonsteroidal compounds that have estrogenic activity or are metabolized into compounds with estrogen activity. Phytoestrogens are classified into three groups: isoflavones, lignans, and coumestans.402,403 They are present in about 300 plants, especially legumes, and bind to the ER. Soybeans, a rich source of phytoestrogens, contain isoflavones, the most common form of phytoestrogens. The isoflavones in soybeans are mainly genistein and daidzein, and a little glycitin.
+
+Examples of phytoestrogens include the following:
+
+* **Isoflavones** (**genistein, daidzein, glycitin**)**: soybeans, lentils, chickpeas**
+
+(**garbanzo beans**)**, and red clover**
+
+* **Lignans: flaxseed, cereals, vegetables, and fruits**
+
+* **Coumestans: sunflower seeds and bean sprouts**
+
+Isoflavones exist in plants bound as glycoside conjugates attached at the three position, called *glycones*. The carbohydrate component requires gut bacteria to remove the sugar moiety to produce active compounds, the aglycones. Individual variability in gastrointestinal microflora, as well as absorption, influences the bioavailability of isoflavones. Biochanin and formononetin are methylated precursors that are metabolized to genistein and daidzein. Red clover and lentils contain significant amounts of these precursors. The isoflavones are in the active, deconjugated forms in fermented soy foods like miso and tempeh. The concentration of isoflavones in tofu is highly variable.
+
+The phytoestrogens are characterized by mixed estrogenic and antiestrogenic actions, depending on the target tissue and local estrogen concentration. Variations in activity may also be due to the fact that the soy
+
+phytoestrogens have a greater affinity for the ER-β compared with ER-a, although the affinity for the β-receptor is still only 35% that of estradiol.404 Despite a low affinity for the a-receptor, circulating levels many times that of steroidal estrogens produce the potential for biologic activity.
+
+You can eat soybeans every day and never see a bean. Soybeans are defatted to produce soy flour. Soy flour is then prepared to remove the carbohydrates. Ninety-five percent of soy flour is toasted and used as animal feed. Alcohol washing is used to get a taste-free product, but alcohol extraction removes the phytoestrogens.405 SUPRO, known as “isolated soy protein,” from Protein Technologies International, the major supplier for commercial products and research, is extracted by aqueous washing and retains the isoflavones.
+
+The reason why most of the soybean crop is devoted to animal feed is because what is left after removing lipids is totally bland. The solution is to mix soybeans with other foods, for example, beans and soups. Unfortunately, they require standing in water for about 12 hours and simmering for 2 to 3 hours to be cooked. The average Japanese intake of isoflavones is about 50 mg/d.406 The rest of Asia has an average consumption of about 25 to 45 mg/d, and Western consumption is less than 5 mg/d.407,408  
+Equol is the active metabolite in all phytoestrogens. Interestingly, not all
+
+individuals have the ability to convert phytoestrogens into their active metabolite.344 Given conflicting results, regarding efficacy, routine use is not recommended, especially with data from a Cochrane review demonstrate no conclusive evidence.344,409 Furthermore, phytoestrogens are **generally** contraindicated in women with hormone-dependent **cancers**, thromboembolic disease, or **CVD**, as the amount of estrogen from consumption of these products is not known.344
+
+***Other Alternative Therapies for Flushing***
+
+**Red Clover**
+
+Promensil is an extract of red clover (*Trifolium pratense*) containing formononetin, biochanin, daidzein, and genistein. Formononetin and biochanin are metabolized to daidzein and genistein, respectively. Red clover is a legume used to enrich nitrogen levels in soils. Promensil is produced by Novogen in Australia and marketed by Solvay in the United
+
+States. A 500-mg tablet contains 200 to 230 mg of dried extract, which contains 40 mg of isoflavones. Two randomized, placebo-controlled studies of the effect of Promensil on hot flushes were reported in 1999\.410,411 Neither demonstrated a significant difference compared with the placebo group. In one of the reports, 4 times the recommended dose (four tablets daily) also had no effect.411 On the other hand, an appropriately designed Dutch study, two tablets daily, detected a significant reduction of flushing in a 12-week period of time.412 A large placebo-controlled trial randomized 252 women with severe hot flushing to either Promensil (two tablets daily) or another red clover extract Rimostil (two tablets daily for an intake of 57-mg isoflavones).413 The quantitative reduction in flushing (about 41% in 12 weeks) was identical in the Promensil, Rimostil, and placebo groups, although Promensil had a very slightly faster response. In another randomized clinical trial, the effect of red clover (a daily intake of 128-mg isoflavones) on VMS was no better than placebo treatment.414 The best evidence indicates that the impact of red clover on VMS is the same as placebo treatment.
+
+**Why do these randomized, blinded, and placebo-controlled trials lack agreement? One reasonable explanation is that isoflavones have a mild impact on hot flushing, detectable only in women with frequent and severe flushing. A major clinical response should not be expected. Another possibility is the role of equol** (**see later discussion**)**.**
+
+**Dong Quai, Ginseng, and Vitamin E**
+
+Dong quai, a Chinese herb, is created from the root of the plant, *Angelica sinensis.*352 One randomized, placebo-controlled trial examined the effect of dong quai on hot flushing, where no improvement in VMS or vulvovaginal symptoms was observed.352 No estrogenic effects could be detected on flushing, endometrium, or vagina; furthermore, it could have potential adverse effects including light sensitivity and increased bleeding risk in those taking warfarin.352 The effects of ginseng and vitamin E supplementation on VMS have been shown to be comparable to placebo.351,353
+
+**Evening Primrose**
+
+Evening primrose is often recommended for mastalgia, premenstrual syndrome (PMS), and menopausal symptoms. Evening primrose oil is extracted from the seed of the evening primrose; it provides linoleic and γ-linoleic acids (precursors of prostaglandin E). Appropriately blinded and controlled studies have failed to find any differences comparing primrose oil with placebo.415-417
+
+**Black Cohosh**
+
+Black cohosh (*Cimicifuga racemosa*), also called *black snakeroot and bugbane*, has been widely promoted to treat hot flashes. Most of the early reports supporting the efficacy of black cohosh were case series or studies without placebo-controlled groups, or the studies did not directly and quantitatively measure hot flushing. Black cohosh has been suggested to contain formononetin, a methylated precursor that is metabolized to the two primary phytoestrogens, genistein and daidzein. More sophisticated analysis, however, using liquid chromatography methods, has failed to detect the presence of formononetin in various black cohosh preparations, nor in black cohosh roots and rhizomes.418
+
+An older clinical trial was noteworthy and alone in finding a similar impact on hot flushing with black cohosh and placebo treatment.354 Well-designed trials are confirming that early study is providing us with a uniform story. The Herbal Alternatives for Menopause (HALT) study is centered in Seattle, Washington. This double-blind trial randomized 351 women to placebo or one of the four treatment groups: (1) black cohosh 160 mg daily (note the higher dose); (2) a multibotanical treatment containing 50-mg black cohosh, alfalfa, chaste tree, dong quai, false unicorn, licorice, oats, pomegranate, and Siberian ginseng, four capsules daily; (3) the multibotanical plus counseling to increase dietary soy intake; and (4) conjugated estrogens 0.625 mg with or without 2.5-mg MPA.419 After 1 year, no differences were observed in hot flushing comparing any of the three herbal treatment groups to placebo.419 The herbal remedies also had no effect on sleep quality as reported after 3 months.420
+
+A randomized trial in Chicago compared black cohosh, 128 mg, and red clover, 120 mg, to standard HT and placebo treatment.414 Over a period of 1 year, only HT reduced VMS greater than placebo. In this same clinical trial, neither black cohosh nor red clover had an impact on the measures of
