@@ -11,3 +11,12 @@ https://www.amazon.com/Speroffs-Clinical-Gynecologic-Endocrinology-Infertility/d
 e09-2019 9781451189766
 e09-sae01-2023
 e10-2025 9781975168032
+
+G:\dev\gkbookz\speroff\temp\e10-2026\speroff-2026.pdf
+cmd /c cd /d G:\dev\gkbookz\speroff\temp\e10-2026\ && gkjpdf split speroff-2026.pdf 2027-2097
+cmd /c cd /d G:\dev\gkbookz\speroff\temp\e10-2026\ && gkjpdf split speroff-2026.pdf 2097-2118
+cmd /c cd /d G:\dev\gkbookz\speroff\temp\e10-2026\ && gkjpdf split speroff-2026.pdf 2027-2118
+
+G:\dev\gkbookz\speroff\e10\en-ch23.docx
+cmd /c cd /d G:\dev\gkbookz\speroff\e10\ && markitdown en-ch23.docx > en-ch23.md
+
